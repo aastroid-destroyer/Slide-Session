@@ -35,7 +35,7 @@ export const QAndA = () => {
           Q&A
         </p>
         <p className="text-3xl md:text-5xl font-orbitron font-bold text-primary neon-glow mb-8">
-          Thank You
+          Kono Jiggasha Thakle Kore felen ChotaPot
         </p>
       </motion.div>
 

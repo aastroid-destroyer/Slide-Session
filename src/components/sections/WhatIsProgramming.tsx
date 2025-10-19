@@ -74,10 +74,10 @@ export const WhatIsProgramming = () => {
       >
         <h3 className="text-2xl font-orbitron font-semibold mb-4 text-primary">Start Simple</h3>
         <div className="space-y-3 text-muted-foreground font-mono">
-          <p>1. Choose a language (C, C++, Python)</p>
-          <p>2. Learn basic syntax (variables, loops, conditions)</p>
-          <p>3. Solve simple problems on platforms like LeetCode, HackerRank, Codeforces, CoderOJ</p>
-          <p>4. Build small projects to apply what you learn</p>
+          <p className="text-xl">1. Choose a language (C, C++, Python)</p>
+          <p className="text-xl">2. Learn basic syntax (variables, loops, conditions)</p>
+          <p className="text-xl">3. Solve simple problems on platforms like LeetCode, HackerRank, Codeforces, CoderOJ</p>
+          <p className="text-xl">4. Build small projects to apply what you learn</p>
         </div>
       </motion.div>
     </div>

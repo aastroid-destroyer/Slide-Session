@@ -40,7 +40,7 @@ export const Warning = () => {
                     <p className="flex gap-4 text-2xl"> <Axe />  ChatGPT or Onno jekono AI use kora mane Nijer Paye Nije Kural Mara</p>
                     <p className="flex gap-4 text-2xl"> <Scale />  Ritu Medam er Samne Chat GPT niye dhora mane Jibon dhongsho</p>
                     <p className="flex gap-4 text-2xl"> <Brain />  Make Your Brain The most Powerfull Compiler</p>
-                    <p className="flex gap-4 text-2xl"> <Brain /> AI amdr analytical thinking nosto kore dey, tai nijer valo ta bujhar cheshta korba</p>
+                    <p className="flex gap-4 text-2xl"> <Brain /> AI amader analytical thinking nosto kore dey, tai nijer valo ta bujhar cheshta korba</p>
 
                 </div>
             </motion.div>

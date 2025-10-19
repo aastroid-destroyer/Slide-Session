@@ -14,6 +14,7 @@ import { BeginnerChallenges } from "@/components/sections/BeginnerChallenges";
 import { WhatToDo } from "@/components/sections/WhatToDo";
 import { QAndA } from "@/components/sections/QAndA";
 import { Warning } from "@/components/sections/Warning";
+import { ThankYou } from "@/components/sections/ThankYou";
 
 
 const Index = () => {
@@ -81,7 +82,7 @@ const Index = () => {
                 <TeamWork />
             </PresentationSection>
 
-            <PresentationSection id="what-programming" title="What is Programming?">
+            <PresentationSection id="what-programming" title="What is Programming & SPL">
                 <WhatIsProgramming />
             </PresentationSection>
 
@@ -98,6 +99,9 @@ const Index = () => {
 
             <PresentationSection id="qna" title="">
                 <QAndA />
+            </PresentationSection>
+            <PresentationSection id="thankyou" title="">
+                <ThankYou />
             </PresentationSection>
 
 

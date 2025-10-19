@@ -26,14 +26,15 @@ export const ImportanceOfProgramming = () => {
           <Code className="w-12 h-12 text-primary mb-4" />
           <h3 className="text-xl font-orbitron font-semibold mb-2 text-primary">CSE pore tmi ki korte parba</h3>
           <ul>
+            <li className="text-muted-foreground font-mono text-xl">জাকির Telecom</li>
             <li className="text-muted-foreground font-mono text-xl">মায়ের দোয়া PC Parts</li>
             <li className="text-muted-foreground font-mono text-xl">Flexiload Shop</li>
             <li className="text-muted-foreground font-mono text-xl">Photocopy Shop</li>
-            <li className="text-muted-foreground font-mono text-xl">Keyboard Repair Shop</li>
+            <li className="text-muted-foreground font-mono text-xl">বিসমিল্লাহ ভর্তা হোটেলের ক্যাশিয়ার</li>
+            <li className="text-muted-foreground font-mono text-xl">মুনাজাত ধরে ডাটা রিকভারি</li>
             <li className="text-muted-foreground font-mono text-xl">Laptop Charger Rent</li>
             <li className="text-muted-foreground font-mono text-xl">USB Cable Store</li>
             <li className="text-muted-foreground font-mono text-xl">Wi-Fi Password Seller</li>
-            <li className="text-muted-foreground font-mono text-xl">Data Recovery by Prayer</li>
             <li className="text-muted-foreground font-mono text-xl">Printer Ink Dealer</li>
           </ul>
 
